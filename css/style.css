@@ -2,7 +2,7 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin: 20px 20px 20px;
+    margin: 20px 20px 20px 0px;
 }
 h1{
     text-align: center;
@@ -10,7 +10,7 @@ h1{
     padding: 15px;
 }
 h2{
-    font-size: 30 px;
+    font-size: 30px;
     color: #0D0D0D;
 }
 p{
@@ -45,7 +45,7 @@ div.blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5px;
+    border-width: 2px 5px 0px 0px;
     color: #C4C4C4;
 }
 div.blue > h2 {
@@ -62,7 +62,7 @@ div.green{
     background-color:#008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5px;
+    border-width: 2px 5px 0px 0px;
 }
 div.green > h2 {
     color: #C4C4C4;
