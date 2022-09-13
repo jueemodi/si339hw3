@@ -2,10 +2,7 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin-top: 20 px;
-    margin-right: 20 px;
-    margin-left: 20 px;
-    margin-bottom: none;
+    margin: 20px 20px 20px;
 }
 h1{
     text-align: center;
@@ -48,7 +45,7 @@ div.blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5x 0px 0px;
+    border-width: 2px 5x;
     color: #C4C4C4;
 }
 div.blue > h2 {
@@ -65,7 +62,7 @@ div.green{
     background-color:#008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5x 0 px 0px;
+    border-width: 2px 5x;
 }
 div.green > h2 {
     color: #C4C4C4;
